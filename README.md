@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Hyunkyung Park. You can call me Jade.
+- 👋 Hi, I’m Hyunkyung Park.
 - 👀 I’m working for a publisher in IT startup.
 - 🌱 I’m currently learning JS
-- 📫 How to reach me ...
+- 📫 How to reach me email
 
 <!---
 jadepark0402/jadepark0402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
