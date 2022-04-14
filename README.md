@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hyunkyung Park.
 - 👀 I’m working for a publisher in IT startup.
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me -> hanafil9742@gmail.com
 
 <!---
