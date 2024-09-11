@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Hyunkyung Park.
-- 👀 I’m working for a publisher in IT startup.
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me -> hanafil9742@gmail.com
+👋 Hi, I’m Hyunkyung Park.
+👀 I’m a Front-end developer.
+🌱 I’m currently enhancing my skills.
+📫 Feel free to reach me at hanafil9742@gmail.com
 
 <!---
 jadepark0402/jadepark0402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
